@@ -96,6 +96,10 @@ if you encounters any other type of error then it may be because of broken backu
 Once the backup is done rebrand and compress the resource pack and enjoy it again!.
 
 
+## Why is backup system only available for Linux?
+Our backup system is only for linux because , Windows CPP Compiles were not possible as G++ was not officiakly available for windows and their is a 3rd party tool for it called MinGW which allows to use g++ on windows but it's first of all 3rd party and secondly it's too minimalist in terms of design and portability where official G++ to ofcourse reslly a robust compiler which can compile any part of our backup system as our backup systen is primarily written in C++ with Zile based drivers. MAC-OS is restricted a lot which is why it's a thing of trouble for devs to bring backup system while ensuring comparabilites with other users.
+
+
 ## Reporting
 Want to report any bug , error or vulnarablities of resource pack hurry up! Make an issue or pull request for the following things weather is is due to backup system or anything else.
 
