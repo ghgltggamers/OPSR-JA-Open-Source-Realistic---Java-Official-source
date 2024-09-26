@@ -147,7 +147,7 @@ in case if you finds any permission error then use the following commands.
 
 ```bash
 sudo chmod +x openlogs
-./pack_backup.opsrja
+./openlogs driver-backup
 ```
 
 if you encounters and path error then check out your terminal path.
