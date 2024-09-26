@@ -22,34 +22,34 @@ If you are bellow these then do not try OPSR-JA or any other resource pack at an
 If you are on or above these then go ahead and follow the instructions
 
 Step 1 :- download the Resource pack. <br>
-Step 2 :- Extract the Resource pack zip file after download code (Only for OPSR-JA).
-Step 3 :- Open the Extracted folder and select all files.
-Step 4 :- Compress all the files into any zip file you want.
-Step 5 :- Open your launcher.
-Step 6 :- Press "esc" on your keyboard.
-Step 7 :- Click on "options".
-Step 8 :- Click on "resource pack".
-Step 9 :- Click on "open pack folder" on left bottom-center.
-Step 10 :- Copy or Move the Compressed zip file into that folder.
-Step 11 :- Get back to the launcher the select your resource pack and enjoy!.
+Step 2 :- Extract the Resource pack zip file after download code (Only for OPSR-JA).  <br>
+Step 3 :- Open the Extracted folder and select all files.  <br>
+Step 4 :- Compress all the files into any zip file you want.  <br>
+Step 5 :- Open your launcher.  <br>
+Step 6 :- Press "esc" on your keyboard.  <br>
+Step 7 :- Click on "options".  <br>
+Step 8 :- Click on "resource pack".  <br>
+Step 9 :- Click on "open pack folder" on left bottom-center.  <br>
+Step 10 :- Copy or Move the Compressed zip file into that folder.  <br>
+Step 11 :- Get back to the launcher the select your resource pack and enjoy!.  <br>
 
 
                         -----or-----
 
-(Best for begginers)
+(Best for begginers) <br> <br>
 
-Step 1 :- download the Resource pack from github releases.
-Step 2 :- locate the downloaded file in your computer.
-Step 3 :- Verify that is resource pack successfully downloaded or not.
-Step 4 :- Locate your launcher.
-Step 5 :- Open your launcher.
-Step 6 :- Press "esc" on your keyboard.
-Step 7 :- Click on "options".
-Step 8 :- Click on "resource pack".
-Step 9 :- Click on "open pack folder" on left bottom-center.
-Step 10 :- Copy or Move the Compressed zip file into that folder.
-Step 11 :- Get back to the launcher the select your resource pack and enjoy!.
-
+Step 1 :- download the Resource pack from github releases. <br>
+Step 2 :- locate the downloaded file in your computer. <br>
+Step 3 :- Verify that is resource pack successfully downloaded or not. <br>
+Step 4 :- Locate your launcher. <br>
+Step 5 :- Open your launcher. <br>
+Step 6 :- Press "esc" on your keyboard. <br>
+Step 7 :- Click on "options". <br>
+Step 8 :- Click on "resource pack". <br>
+Step 9 :- Click on "open pack folder" on left bottom-center. <br>
+Step 10 :- Copy or Move the Compressed zip file into that folder. <br>
+Step 11 :- Get back to the launcher the select your resource pack and enjoy!. <br>
+ <br>
 
 ## Why is OPSR-JA Almost double the size of any other resource pack?
 OPSR-JA Follows a quality textured and photorealism way which already increses the overall pack size a lot but OPSR-JA also provides a built-in backup for linux based systems which doubles the pack size.
