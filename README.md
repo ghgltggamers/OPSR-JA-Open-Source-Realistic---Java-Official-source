@@ -17,7 +17,7 @@ Minecraft 1.16.5 (Optifine Included)
 Intel Celeron N3060 (Minimum CPU) (Maximum anything possible)
 RAM 4gb ddr3 2xxx mhz (Minimum Memory) (Maximum anything possible)
 
-If you are bellow these then do not try OPSR-JA or any other resource pack at any cost it may damage your system.
+If you are bellow these then do not try OPSR-JA or any other resource pack at any cost it may offer 1 or even 0 framerates as bellow these your system is already struggling to run vanilla minecraft and you are planning to add mods it may reault in reslly poor performance and even higher temperatures as cpu utilisation will be a lot.
 
 If you are on or above these then go ahead and follow the instructions
 
