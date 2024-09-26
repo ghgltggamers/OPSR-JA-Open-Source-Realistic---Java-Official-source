@@ -21,7 +21,7 @@ If you are bellow these then do not try OPSR-JA or any other resource pack at an
 
 If you are on or above these then go ahead and follow the instructions
 
-Step 1 :- download the Resource pack.
+Step 1 :- download the Resource pack. <br>
 Step 2 :- Extract the Resource pack zip file after download code (Only for OPSR-JA).
 Step 3 :- Open the Extracted folder and select all files.
 Step 4 :- Compress all the files into any zip file you want.
