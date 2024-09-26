@@ -55,6 +55,67 @@ Step 11 :- Get back to the launcher the select your resource pack and enjoy!.
 OPSR-JA Follows a quality textured and photorealism way which already increses the overall pack size a lot but OPSR-JA also provides a built-in backup for linux based systems which doubles the pack size.
 
 
+## Drivers of OPSR-JA
+OPSR-JA has built-in drivers which are responsible for providing every service to you for example the service could be updating , backing up or anything else. The drivers are extremly important for this resource and the drivers also fully open source and safe to use and even modify.
+
+Check the "/src/drivers/code/" for drivers source code
+
+### Can we update drivers ?
+Yes, OPSR-JA Provides drivers seperately in releases meaning you may be able to update your OPSR-JA drivers with ease.
+
+### How to update drivers?
+If you want to update OPSR-JA drivers then you must be using a linux based system because OPSR-JA Only provides drivers for linux based systems only. You must be familar with CLI tools of linux and terminal of your operating system.
+
+Suggested Systems :-
+Debian
+Ubuntu
+Arch
+Manjaro
+
+Donot worry even if your distribution is different but if it is linux based then it may run drivers as well.
+
+Let's suppose you are using a linux based system and want to update the drivers of OPSR-JA then follow the steps but do not follow them if you are using Windows or MAC or anything else.
+
+Loacate the Pack file (Typically in "/home/[user]/.minecraft/resourcepacks/")
+Extract the Resource pack file to a different location (eg : "/home/Documents/RP/")
+
+Extract the pack.
+
+Locate your drivers.
+
+Extract your Drivers.
+
+Copy your drivers all files and folders.
+
+Paste the copied content in the root directory of the extracted resource pack and if it asks for replacing then replace the old drivers with new.
+
+Re-brand and Compress the content after copying done.
+
+Paste your resource pack in your resourcepacks directory.
+
+Congratulations!! You have successfully updated your old drivers.
+
+
+### What if i do not update drivers?
+OPSR-JA never forces to update the drivers always because drivers are not designed for running the resource pack but for providing technical features for resource pack for example , upscaling , backup etc. if you won't update your drivers then it's totaly fine your pack will still run fine as expected and updating drivers also means the new texture files must be added othervise it may result bugs in-game so generaly updating drivers is good for accessing new features only but updating drivers in an older version of resource pack will definetly leave bugs in game so do not update them until you really want to access new features because the drivers released with every updated versions of the resource pack and your OPSR-JA will be already having it's stable drivers and those drivers are designed to work with your version of OPSR-JA means they will run extremly fine and smoothly where new drivers in old versions may lead glitches or bugs or even crash your game.
+
+
+### In which language the drivers are written in?
+OPSR-JA uses a combination or programming languages but all of them are low level because most of the part of drivers of OPSR-JA are written in C++ but some of them are written in Zile which is a custom programming language of ghgltggamer designed to be low level. C++ and Zile are due to performance and Zile itself transpiles into C++ during it's own compilations meas speed of drivers are insaanely good.
+
+As mentioned previously all the drivers are safe and open source means eeryone can inspect and modify the driver's core with ease.
+
+
+## What is the update cycle of OPSR-JA?
+Frequently asked question! The update cycle of OPSR-JA does not maintain a variable update cycle becuse mostly the pack new versions are released in a week or mostly per day sometimes even 2 times in a single day.
+
+
+## Why are drivers only linux-exclusive?
+Minecraft has a huge audience in windows but drivers of OPSR-JA do not works in windows because thay are linux compiles and designed to work with linux systems effectively , Windows voilates the Privacy polocies of OPSR-JA clearly because they collects a lot of user data and users can not stop data collection completly in windows specially in Win11 22H2 Which completly & clearly voilates OPSR-JA Zero-Data-Collection policy and Freedom-For-Everyone policy which is why windows was not supported. MACOS Restricts the applications a lot which is not good for our drivers as our drivers needs to be called manually by the user. Linux is safe, stable and generally good and considered home of open source softwares and OPSR-JA is itself founded in Arch linux by ghgltggamer.
+
+Again safety issues are main reason because we want to provide the safest experience to our families which MS and Apple do not wants. Drivers and the whole resource pack is completly open source you can review any part any time you want.
+
+
 ## How to backup OPSR-JA?
 If you want to backup OPSR-JA then you must be using a linux based system because OPSR-JA Only provides backups for linux based systems only. You must be familar with CLI tools of linux and terminal of your operating system.
 
@@ -75,9 +136,9 @@ Extract the pack.
 
 Open the terminal in the extracted folder
 
-Fire up "./pack_backup.opsrja" or the following command
+Fire up the backup drivers by the following command
 ```bash
-./pack_backup.opsrja
+./openlogs driver-backup
 ```
 
 and wait until you see "backup completed with status[1]"
@@ -85,7 +146,6 @@ and wait until you see "backup completed with status[1]"
 in case if you finds any permission error then use the following commands.
 
 ```bash
-sudo chmod +x pack_backup.opsrja
 sudo chmod +x openlogs
 ./pack_backup.opsrja
 ```
