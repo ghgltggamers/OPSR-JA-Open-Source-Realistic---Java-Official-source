@@ -1,1 +1,11 @@
-
+bricks.driver-cache:assets/minecraft/textures/block/bricks.png
+cobblestone.driver-cache:assets/minecraft/textures/block/cobblestone.png
+dirt.driver-cache:assets/minecraft/textures/block/dirt.png
+grass_block_side_overlay.driver-cache:assets/minecraft/textures/block/grass_block_side_overlay.png
+grass_block_side.driver-cache:assets/minecraft/textures/block/grass_block_side.png
+grass_block_snow.driver-cache:assets/minecraft/textures/block/grass_block_snow.png
+grass_block_top.driver-cache:assets/minecraft/textures/block/grass_block_top.png
+grass_path_side.driver-cache:assets/minecraft/textures/block/grass_path_side.png
+grass_path_top.driver-cache:assets/minecraft/textures/block/grass_path_top.png
+grass.driver-cache:assets/minecraft/textures/block/grass.png
+stone.driver-cache:assets/minecraft/textures/block/stone.png
