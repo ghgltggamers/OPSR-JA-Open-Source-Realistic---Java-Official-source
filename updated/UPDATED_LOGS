@@ -9,3 +9,5 @@ grass_path_side.driver-cache:assets/minecraft/textures/block/grass_path_side.png
 grass_path_top.driver-cache:assets/minecraft/textures/block/grass_path_top.png
 grass.driver-cache:assets/minecraft/textures/block/grass.png
 stone.driver-cache:assets/minecraft/textures/block/stone.png
+tall_grass_bottom.driver-cache:assets/minecraft/textures/block/tall_grass_bottom.png
+tall_grass_top.driver-cache:assets/minecraft/textures/block/tall_grass_top.png
