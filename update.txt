@@ -1,9 +1,9 @@
 This update's meta data
 
-Update name : Assembly
-Model Name : Asm
+Update name : Assembly 0.1a
+Model Name : Asm 0-1a
 Contributors : [ghgltggamer]
 Price : Free
-Version : 0.1 beta x Asm
-Update Main Name : OPSR-JA Assembly (BETA)
+Version : 0.1a beta x Asm
+Update Main Name : OPSR-JA Assembly .01A (BETA)
 Programmed in : C++ and zile with openlogs
